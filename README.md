@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/Axhutoxh/Axhutoxh/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Chandra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullStack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-18657810.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axhutoxh&label=Profile%20views&color=0e75b6&style=flat" alt="axhutoxh" /> </p>
