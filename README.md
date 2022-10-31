@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FElvisGmz&psig=AOvVaw1sUNhb1ZjPpeg0GRhPx8ku&ust=1667281541406000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOD6-vPhifsCFQAAAAAdAAAAABAD)
+![logo](https://github.com/Axhutoxh/Axhutoxh/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Chandra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-18657810.gif">
