@@ -39,5 +39,10 @@
 </div>
 <!--  End Stats Cards -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axhutoxh&show_icons=true&locale=en&layout=compact" alt="axhutoxh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axhutoxh&show_icons=true&locale=en" alt="axhutoxh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axhutoxh&" alt="axhutoxh" /></p>
 
 
